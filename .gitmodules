@@ -1,3 +1,6 @@
 [submodule "_sass/bootstrap"]
 	path = _sass/bootstrap
 	url = https://github.com/twbs/bootstrap.git
+[submodule "rubygems"]
+	path = rubygems
+	url = https://github.com/rubygems/rubygems.git

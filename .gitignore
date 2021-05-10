@@ -9,7 +9,7 @@ lang/*
 
 _data/i18n/*.yml
 !_data/i18n/en.yml
-node_modules/
+
 js/build
 _data/webpack.json
 .happypack/
