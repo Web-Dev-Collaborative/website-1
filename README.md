@@ -19,6 +19,8 @@ You should ensure you have Yarn and [Bundler](http://bundler.io/) installed:
 $ gem install bundler
 ```
 
+ji
+
 And then:
 
 ```sh
